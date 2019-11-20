@@ -418,7 +418,8 @@ Following picture illustrates the pixel to be denoised, feature vector and train
 
 For this experiment K = 3, L = 7, and 250 blocks of K X K are chosen from L X L windows. 
 
-Following picture illustrates the variance across principle components for a single pixel for different noise levels:
+We explored how the variance was distributed across principle components for individual pixels for different noise levels.
+The below are the results for a typical pixel:
 
 <p align="middle">
   <img src="assets/lgp_pca/doc/bar_variance_pca_orig.jpg" width="400" />
